@@ -25,4 +25,4 @@ jobs:
 # https://github.com/openai/mujoco-py/issues/383 has the same problem for reference
 # this doesn't happen in focal 
     - name: Make
-      run:  cd build && make nanovg 
+      run:  cd build && make NanoVG
